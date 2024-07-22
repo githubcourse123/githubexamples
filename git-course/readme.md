@@ -1,9 +1,9 @@
-##Commits
+## Commits
 
-##Branches
+## Branches
 
-##Remotes
+## Remotes
 
-##Stashing
+## Stashing
 
-##Merging
+## Merging
